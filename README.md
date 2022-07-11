@@ -8,20 +8,20 @@
 
 ## Screenshoot Demo
 
-**Dashboard** <br>
+**Dashboard** <br><br>
 ![gambar 1](img/1.PNG) <br>
 
-**Data Warga** <br>
+**Data Warga** <br><br>
 ![gambar 1](img/2.PNG) <br>
 
-**Update Data** <br>
+**Update Data** <br><br>
 ![gambar 1](img/3.PNG) <br>
 
-**Delete Data** <br>
+**Delete Data** <br><br>
 ![gambar 1](img/4.PNG) <br>
 
-**Tambah Data** <br>
+**Tambah Data** <br><br>
 ![gambar 1](img/5.PNG) <br>
 
-**Tampilkan Data** <br>
+**Tampilkan Data** <br><br>
 ![gambar 1](img/6.PNG) <br>
